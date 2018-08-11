@@ -1,0 +1,4 @@
+Sign Language to Speech Device:
+------------------------------------------------------------------------
+
+Overall design, a raspberry pi with a camera module anc screen on one side facing the user. There will be a speaker on the other side facing the other person.  
