@@ -1,4 +1,3 @@
 # SignLanguageToSpeech
----
 
 ### The Design:
