@@ -22,7 +22,7 @@ We are making this project for the PennApps Fall 2018 Hackathon. It could be use
 - There is no volume control
 - There is no On/Off switch ( you have to unplug it)
 
----
+
 
 # SignLanguageToSpeech - Learning
 
@@ -30,7 +30,7 @@ We are making this project for the PennApps Fall 2018 Hackathon. It could be use
 - [COGNITIVE CLASS Deep Learning with TensorFlow](https://cognitiveclass.ai/courses/deep-learning-tensorflow/)
 
 ### Videos:
--[A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg&list=PLs8w1Cdi-zvavXlPXEAsWIh4Cgh83pZPO)
--[Beginner Intro to Neural Networks 1: Data and Graphing](https://www.youtube.com/watch?v=ZzWaow1Rvho&list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So)
--[But what *is* a Neural Network? | Deep learning, chapter 1](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
--[Neural networks [1.1] : Feedforward neural network - artificial neuron](https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+- [A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg&list=PLs8w1Cdi-zvavXlPXEAsWIh4Cgh83pZPO)
+- [Beginner Intro to Neural Networks 1: Data and Graphing](https://www.youtube.com/watch?v=ZzWaow1Rvho&list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So)
+- [But what *is* a Neural Network? | Deep learning, chapter 1](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [Neural networks [1.1] : Feedforward neural network - artificial neuron](https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
