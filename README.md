@@ -1,4 +1,4 @@
-# SignLanguageToSpeech - Outline
+# SignLanguageToSpeech
 ###### By: Sam Kriegsman, Kayla Wong, & Varun Mehrotra
 
 We are making this project for the PennApps Fall 2018 Hackathon. It could be useful to people who are deaf and want to communicate with someone who doesn't know sign language. Our hope is that this project could one day better the lives of people who use sign language.
@@ -24,7 +24,7 @@ We are making this project for the PennApps Fall 2018 Hackathon. It could be use
 
 
 
-# SignLanguageToSpeech - Stuff to Learn Before the Hackathon
+# Stuff to Learn Before the Hackathon
 
 ### Class:
 - [COGNITIVE CLASS Deep Learning with TensorFlow](https://cognitiveclass.ai/courses/deep-learning-tensorflow/)
