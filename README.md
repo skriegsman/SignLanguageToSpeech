@@ -34,3 +34,7 @@ We are making this project for the PennApps Fall 2018 Hackathon. It could be use
 - [Beginner Intro to Neural Networks 1: Data and Graphing](https://www.youtube.com/watch?v=ZzWaow1Rvho&list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So)
 - [But what *is* a Neural Network? | Deep learning, chapter 1](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [Neural networks [1.1] : Feedforward neural network - artificial neuron](https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+
+
+# Other
+- [Availible Hardware](http://hardware.pennapps.com/)
