@@ -5,7 +5,7 @@ We are making this project for the PennApps Fall 2018 Hackathon. It could be use
 
 ### The Design:
 - Main Design: Overall design, a raspberry pi with a camera module and screen on one side facing the user. There will be a speaker on the other side facing the other person. The user will begin signing and the recognised letter/words will be shown on the screen so they know it is correctly recognising it. The device will also speak out the signs from the speaker on the back.
-- Alternate Design: A smartphone app that will use the phones front camera and screen for the user as discussed above and will then use the phones speaker to read aloud text.
+- Alternate Design: A smartphone app that will use the phones front camera and screen for the user as discussed above and will then use the phones speaker to read aloud text. Coded in Androis studio with OpenCV.
 
 ### Hardware: [Availible Hardware](http://hardware.pennapps.com/)
 - [Raspberry Pi 3 - Model B+](https://www.adafruit.com/product/3775?src=raspberrypi)
