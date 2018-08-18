@@ -12,5 +12,3 @@ We will make an android app in Android Studio that uses OpenCV for image recogni
 
 ### Limitations:
 - Needs a phone stand so the camera can face them while keeping both hands free to sign
-
-# Stuff to Learn Before the Hackathon
