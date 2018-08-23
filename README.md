@@ -8,10 +8,10 @@ We will make an android app in Android Studio that uses OpenCV for image recogni
 
 ### Software:
 - [Android Studio](https://developer.android.com/studio/) used to develop the android app
-..* [Video Tutorial 1](https://www.youtube.com/watch?v=6iHGTS4-wWs&vl=en)
-..* [Video Tutorial 2](https://www.youtube.com/watch?v=dFlPARW5IX8&list=PLp9HFLVct_ZvMa7IVdQyUUyh8t2re9apm)
+  - [Video Tutorial 1](https://www.youtube.com/watch?v=6iHGTS4-wWs&vl=en)
+  - [Video Tutorial 2](https://www.youtube.com/watch?v=dFlPARW5IX8&list=PLp9HFLVct_ZvMa7IVdQyUUyh8t2re9apm)
 - [OpenCV](https://opencv.org/platforms/android/) used for image recognition, and is supported in Android Studio
-..* [Video Tutorial](https://www.youtube.com/playlist?list=PLF0BIlN2vd8uFaeuIn6OBnxfXMBXnGAI_)
+  - [Video Tutorial](https://www.youtube.com/playlist?list=PLF0BIlN2vd8uFaeuIn6OBnxfXMBXnGAI_)
 
 ### Limitations:
 - Needs a phone stand so the camera can face them while keeping both hands free to sign
