@@ -11,6 +11,7 @@ We will make an android app in Android Studio that uses OpenCV for image recogni
   - [Video Tutorial 1](https://www.youtube.com/watch?v=6iHGTS4-wWs&vl=en)
   - [Video Tutorial 2](https://www.youtube.com/watch?v=dFlPARW5IX8&list=PLp9HFLVct_ZvMa7IVdQyUUyh8t2re9apm)
 - [OpenCV](https://opencv.org/platforms/android/) used for image recognition, and is supported in Android Studio
+  - How to [install OpenCV](https://medium.com/@sukritipaul005/a-beginners-guide-to-installing-opencv-android-in-android-studio-ea46a7b4f2d3) in Android Studio
   - [Video Tutorial](https://www.youtube.com/playlist?list=PLF0BIlN2vd8uFaeuIn6OBnxfXMBXnGAI_)
 
 ### Limitations:
